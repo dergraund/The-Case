@@ -1,0 +1,24 @@
+@import url(//db.onlinewebfonts.com/c/b2e75c336df191233b3096682c9ee6be?family=PixelarRegularW01-Regular);
+
+@font-face {
+  font-family: "Pixelar-Regular";
+  src: url("../public/Font/Pixelar-Regular-W01-Regular.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PixelarRegularW01-Regular";
+  src: url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.eot");
+  src: url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/b2e75c336df191233b3096682c9ee6be.svg#PixelarRegularW01-Regular")
+      format("svg");
+}
